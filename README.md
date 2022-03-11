@@ -6,7 +6,7 @@
 
 ## 🌱 I’m currently learning
  
-  Some senior skills to improve my coding ability
+  Some senior skills to improve my coding ability with JS and Flutter
   
 ## 🚀 I’m looking to collaborate on
 
