@@ -2,24 +2,24 @@
 
 ## 🔭 I’m currently working as
 
-  Full Stack developer with JAM Stack
+  Senior Software Engineer at SUNSET TIRES CORPORATION LIMITED with TypeScript, NodeJs, ReactJs and other things
 
 ## 🌱 I’m currently learning
  
-  Some senior skills to improve my coding ability with JS and Flutter
-  
+  Go and Kubernetes.
+
 ## 🚀 I’m looking to collaborate on
 
-  Cool projects where my skills can make difference !!
+  Cool projects where my skills can make a difference! Especially with go for Backend applications
 
 ## 🤔 I’m looking for help with
  
- Anything that someone can need.
+ Anything that someone might need.
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/alecsander-souza-farias-912905188/)
-- [GitHub](https://github.com/AlecsFarias)
+- LinkedIn
+- GitHub
 
 ## ⚡ Fun fact
 
