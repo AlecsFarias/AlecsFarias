@@ -10,7 +10,7 @@
 
 ## 🚀 I’m looking to collaborate on
 
-  Cool projects where my skills can make a difference! Especially with go for Backend applications
+  Cool projects where my skills can make a difference! Especially with go for Backend applications.
 
 ## 🤔 I’m looking for help with
  
@@ -18,8 +18,8 @@
 
 ## 📫 How to reach me
 
-- LinkedIn
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/alecsander-farias-912905188/)
+- [GitHub](https://github.com/AlecsFarias)
 
 ## ⚡ Fun fact
 
