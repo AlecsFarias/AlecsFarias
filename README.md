@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working as
 
-  Senior Software Engineer at SUNSET TIRES CORPORATION LIMITED with TypeScript, NodeJs, ReactJs and other things
+  Senior Software Engineer at SUNSET TIRES CORPORATION LIMITED with TypeScript, NodeJs, ReactJs and other things.
 
 ## 🌱 I’m currently learning
  
@@ -23,4 +23,4 @@
 
 ## ⚡ Fun fact
 
-  Arabic (spoken) is easier than English. Currently learning it 🧙🏻‍♂️🧙🏻‍♂️
+  Arabic (spoken) is easier than English. 🧙🏻‍♂️🧙🏻‍♂️
